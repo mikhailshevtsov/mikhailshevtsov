@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @mikhailshevtsov
+- 👀 I’m interested in programming and mathematics
+- 🌱 I’m currently learning C++ and Qt framework
+- 📫 How to reach me mikhail.shevtsoff@gmail.com
+
