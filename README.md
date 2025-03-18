@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @mikhailshevtsov
-- 👀 I’m interested in programming and mathematics
+- 👀 I’m interested in programming
 - 📫 How to reach me mikhail.shevtsoff@gmail.com
 
