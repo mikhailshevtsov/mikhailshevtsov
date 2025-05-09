@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @mikhailshevtsov
+- 👀 I’m interested in programming
+- 📫 How to reach me mikhail.shevtsoff@gmail.com
