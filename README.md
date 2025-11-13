@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **mikhailshevtsov/mikhailshevtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,74 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m @mikhailshevtsov
-- 👀 I’m interested in programming
-- 📫 How to reach me mikhail.shevtsoff@gmail.com
+# Hi there 👋, I'm Mikhail Shevtsov
+
+🎯 **C++ Developer | Scientific & Engineering Software | High-Performance Computing | Low-Latency Systems**
+
+---
+
+## 🚀 About Me
+I am a passionate C++ developer with deep interests in **high-performance, low-latency, and scientific computing**. I specialize in building **desktop applications, engineering tools, and simulation software** that are both **robust and lightning-fast**.
+
+- 🌱 Currently exploring **C++23 features**, **concepts & ranges**, **template metaprogramming**, and **real-time systems**.
+- ⚡ Strong focus on **optimization, multithreading, and algorithmic efficiency**.
+
+---
+
+## 🛠 Core Expertise
+
+### 💻 Languages & Standards
+- **C++11/14/17/20/23**: Templates, RAII, smart pointers, move semantics, lambdas, constexpr, concepts, ranges  
+- **C**: Low-level programming, embedded systems, performance-critical code  
+- **Python**: Scripting, automation, scientific libraries (NumPy, SciPy, Matplotlib)  
+- **CUDA / OpenCL (basic)**: GPU acceleration for simulations
+
+### 🧩 Libraries & Frameworks
+- **STL / Boost**: Containers, algorithms, smart pointers, multi-threading, asynchronous input/output  
+- **Eigen / Armadillo / Blaze**: Linear algebra & scientific computing  
+- **Qt / QML**: Cross-platform desktop GUI development  
+- **OpenGL / Vulkan (basic)**: Visualization and rendering for scientific apps
+- **ZeroMQ / ASIO**: Networking, IPC, and low-latency communication
+
+### 🏗 Tools & Ecosystem
+- **Version Control:** Git, GitHub, GitLab  
+- **Build Systems:** CMake, Make, Ninja  
+- **Package Management:** CPM, Conan, vcpkg
+- **Profiling & Debugging:** valgrind, gprof, perf, gdb, sanitizers
+- **Testing:** GoogleTest, Catch2
+- **CI/CD:** GitHub Actions, CTest  
+
+### 📐 Concepts & Practices
+- Object-Oriented Programming
+- Generic Programming
+- Template Metaprogramming  
+- Low-latency and High-performance optimization  
+- Numerical Methods for Scientific and Engineering Applications  
+- Software Architectural patterns
+- Algorithmic Complexity
+- Multithreading
+
+---
+
+<!--
+## 💻 Projects (Fake-it-till-you-make-it)
+> Example projects to showcase your skills. You can gradually implement them.
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **SciCalc** | High-performance scientific calculator for engineers and researchers | C++, Qt, Eigen |
+| **SimEngine** | Physics/engineering simulation engine with multithreading & GPU acceleration | C++, OpenMP, Eigen, CUDA (optional) |
+| **DataVizPro** | Interactive visualization tool for large scientific datasets | C++, Qt, OpenGL |
+| **LowLatTrade** | Prototype low-latency financial trading engine simulator | C++, Boost.ASIO, TBB |
+| **DesktopUtils** | Collection of productivity and system utility tools | C++, wxWidgets |
+-->
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://linkedin.com/in/mykhailo-shevtsov/)  
+- [Telegram](https://t.me/mexaaal)  
+- [Email](mikhail.shevtsoff@gmail.com)  
+
+---
+
