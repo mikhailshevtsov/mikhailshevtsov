@@ -51,36 +51,20 @@ I am a passionate C++ developer with deep interests in **high-performance, low-l
 - **CI/CD:** GitHub Actions, CTest  
 
 ### 📐 Concepts & Practices
-- Object-Oriented Programming
-- Generic Programming
-- Template Metaprogramming  
-- Low-latency and High-performance optimization  
-- Numerical Methods for Scientific and Engineering Applications  
-- Software Architectural patterns
-- Algorithmic Complexity
-- Multithreading
-
----
-
-<!--
-## 💻 Projects (Fake-it-till-you-make-it)
-> Example projects to showcase your skills. You can gradually implement them.
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **SciCalc** | High-performance scientific calculator for engineers and researchers | C++, Qt, Eigen |
-| **SimEngine** | Physics/engineering simulation engine with multithreading & GPU acceleration | C++, OpenMP, Eigen, CUDA (optional) |
-| **DataVizPro** | Interactive visualization tool for large scientific datasets | C++, Qt, OpenGL |
-| **LowLatTrade** | Prototype low-latency financial trading engine simulator | C++, Boost.ASIO, TBB |
-| **DesktopUtils** | Collection of productivity and system utility tools | C++, wxWidgets |
--->
+- **Object-Oriented Programming**
+- **Generic Programming**
+- **Template Metaprogramming**
+- **Low-latency and High-performance optimization** 
+- **Numerical Methods for Scientific and Engineering Applications**
+- **Software Architectural patterns**
+- **Algorithmic Complexity**
+- **Multithreading**
 
 ---
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/mykhailo-shevtsov/)  
 - [Telegram](https://t.me/mexaaal)  
-- [Email](mikhail.shevtsoff@gmail.com)  
+- [Email](mikhail.shevtsoff@gmail.com)
 
 ---
-
