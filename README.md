@@ -47,7 +47,9 @@ I am a passionate C++ developer with deep interests in **high-performance, low-l
 - **Package Management:** CPM, Conan, vcpkg
 - **Profiling & Debugging:** valgrind, gprof, perf, gdb, sanitizers
 - **Testing:** GoogleTest, Catch2
-- **CI/CD:** GitHub Actions, CTest  
+- **CI/CD:** GitHub Actions, CTest
+- **Operating Systems**: Linux (primary), Windows
+- **Databases**: SQLite3
 
 ### 📐 Concepts & Practices
 - **Object-Oriented Programming**
