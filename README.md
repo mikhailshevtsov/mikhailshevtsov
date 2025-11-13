@@ -32,8 +32,7 @@ I am a passionate C++ developer with deep interests in **high-performance, low-l
 ### 💻 Languages & Standards
 - **C++11/14/17/20/23**: Templates, RAII, smart pointers, move semantics, lambdas, constexpr, concepts, ranges  
 - **C**: Low-level programming, embedded systems, performance-critical code  
-- **Python**: Scripting, automation, scientific libraries (NumPy, SciPy, Matplotlib)  
-- **CUDA / OpenCL (basic)**: GPU acceleration for simulations
+- **Python**: Scripting, automation, scientific libraries (NumPy, SciPy, Matplotlib)
 
 ### 🧩 Libraries & Frameworks
 - **STL / Boost**: Containers, algorithms, smart pointers, multi-threading, asynchronous input/output  
