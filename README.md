@@ -37,9 +37,9 @@ I am a passionate C++ developer with deep interests in **high-performance, low-l
 ### 🧩 Libraries & Frameworks
 - **STL / Boost**: Containers, algorithms, smart pointers, multi-threading, asynchronous input/output  
 - **Eigen / Armadillo / Blaze**: Linear algebra & scientific computing  
-- **Qt / QML**: Cross-platform desktop GUI development  
+- **Qt / QML / Dear ImGui**: Cross-platform desktop GUI development  
 - **OpenGL / Vulkan (basic)**: Visualization and rendering for scientific apps
-- **ZeroMQ / ASIO**: Networking, IPC, and low-latency communication
+- **ZASIO**: Networking, IPC, and low-latency communication
 
 ### 🏗 Tools & Ecosystem
 - **Version Control:** Git, GitHub, GitLab  
