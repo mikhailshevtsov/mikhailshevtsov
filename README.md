@@ -35,20 +35,18 @@ I am a passionate C++ developer with deep interests in **high-performance, low-l
 - **Python**: Scripting, automation, scientific libraries (NumPy, SciPy, Matplotlib)
 
 ### 🧩 Libraries & Frameworks
-- **STL / Boost**: Containers, algorithms, smart pointers, multi-threading, asynchronous input/output  
-- **Eigen / Armadillo / Blaze**: Linear algebra & scientific computing  
+- **STL / Boost**: Containers, algorithms, smart pointers, multi-threading, asynchronous input/output
 - **Qt / QML / Dear ImGui**: Cross-platform desktop GUI development  
 - **OpenGL / Vulkan (basic)**: Visualization and rendering for scientific apps
-- **ZASIO**: Networking, IPC, and low-latency communication
+- **ASIO**: Networking, IPC, and low-latency communication
 
 ### 🏗 Tools & Ecosystem
-- **Version Control:** Git, GitHub, GitLab  
+- **Version Control:** Git, GitHub 
 - **Build Systems:** CMake, Make, Ninja  
 - **Package Management:** CPM, Conan, vcpkg
-- **Profiling & Debugging:** valgrind, gprof, perf, gdb, sanitizers
 - **Testing:** GoogleTest, Catch2
 - **CI/CD:** GitHub Actions, CTest
-- **Operating Systems**: Linux (primary), Windows
+- **Operating Systems**: Ubuntu Linux (primary)
 - **Databases**: SQLite3
 
 ### 📐 Concepts & Practices
