@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Mikhail Shevtsov
 
-🎯 **C++ Developer | Scientific & Engineering Software | High-Performance Computing | Low-Latency Systems**
+🎯 **C++ Developer | Desktop & Scientific & Engineering Software**
 
 ---
 
 ## 🚀 About Me
-I am a passionate C++ developer with deep interests in **high-performance, low-latency, and scientific computing**. I specialize in building **desktop applications, engineering tools, and simulation software** that are both **robust and lightning-fast**.
-
-- 🌱 Currently exploring **C++23 features**, **concepts & ranges**, **template metaprogramming**, and **real-time systems**.
-- ⚡ Strong focus on **optimization, multithreading, and algorithmic efficiency**.
+I am a passionate C++ developer specializing in building **cross-platform desktop applications, engineering tools, and simulation software**.
 
 ---
 
@@ -35,19 +32,19 @@ I am a passionate C++ developer with deep interests in **high-performance, low-l
 - **Python**: Scripting, automation, scientific libraries (NumPy, SciPy, Matplotlib)
 
 ### 🧩 Libraries & Frameworks
-- **STL / Boost**: Containers, algorithms, smart pointers, multi-threading, asynchronous input/output
-- **Qt / QML / Dear ImGui**: Cross-platform desktop GUI development  
-- **OpenGL / Vulkan (basic)**: Visualization and rendering for scientific apps
-- **ASIO**: Networking, IPC, and low-latency communication
+- **Qt & QML**: Cross-platform desktop development
+- **STL & Boost**: Containers, algorithms, smart pointers, multithreading, asynchronous input/output  
+- **OpenGL**: Visualization and rendering
+- **ASIO**: Networking and IPC
 
 ### 🏗 Tools & Ecosystem
 - **Version Control:** Git, GitHub 
-- **Build Systems:** CMake, Make, Ninja  
+- **Build Systems:** CMake, Make, Ninja 
 - **Package Management:** CPM, Conan, vcpkg
 - **Testing:** GoogleTest, Catch2
 - **CI/CD:** GitHub Actions, CTest
-- **Operating Systems**: Ubuntu Linux (primary)
-- **Databases**: SQLite3
+- **Operating Systems**: Ubuntu Linux (primary), Windows
+- **Databases**: SQLite3, PostgreSQL
 
 ### 📐 Concepts & Practices
 - **Object-Oriented Programming**
@@ -62,8 +59,8 @@ I am a passionate C++ developer with deep interests in **high-performance, low-l
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/mykhailo-shevtsov/)  
-- [Telegram](https://t.me/mexaaal)  
+- [LinkedIn](https://linkedin.com/in/mykhailo-shevtsov/)
 - [Email](mikhail.shevtsoff@gmail.com)
+- [Telegram](https://t.me/mexaaal)
 
 ---
