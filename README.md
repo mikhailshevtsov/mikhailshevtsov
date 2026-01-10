@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Mikhail Shevtsov
 
-🎯 **C++ Developer | Desktop & Scientific & Engineering Software**
+🎯 **C++ Developer | Automation & Engineering Software**
 
 ---
 
 ## 🚀 About Me
-**I am a passionate C++ developer building cross-platform desktop applications with intuitive interfaces for automation, engineering, simulation, and data visualization**
+**I am a passionate C++ developer specializing in building cross-platform desktop applications, engineering tools and automation software**
 
 ---
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - **C**: Low-level programming, embedded systems, performance-critical code  
 - **Python**: Scripting, automation, scientific libraries (NumPy, SciPy, Matplotlib)
 
-### 🧩 Libraries & Frameworks
+### 🧩 Frameworks & Libraries
 - **Qt & QML**: Cross-platform desktop development
 - **STL & Boost**: Containers, algorithms, smart pointers, multithreading, asynchronous input/output  
 - **OpenGL**: Visualization and rendering
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - **Operating Systems**: Ubuntu Linux (primary), Windows
 - **Databases**: SQLite3, PostgreSQL
 
-### 📐 Concepts & Practices
+### 📐 Hard Skills
 - **Object-Oriented Programming**
 - **Generic Programming**
 - **Template Metaprogramming**
@@ -56,6 +56,15 @@ Here are some ideas to get you started:
 - **Algorithmic Complexity**
 - **Multithreading**
 
+### 🙌 Soft Skills 
+- **Upper-intermediate English (B2)**
+- **Touch Typing**
+- **Analytical Thinking**
+- **Attention to Detail**
+- **Self-driven Learning**
+- **Clear Communication**
+- **Responsibility & Reliability**
+- 
 ---
 
 ## 🌐 Connect with Me
