@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/mykhailo-shevtsov/)
 - [Email](mikhail.shevtsoff@gmail.com)
-- [Telegram](https://t.me/mexaaal)
+- [Telegram](https://t.me/mikhailshevtsoff)
 
 ---
