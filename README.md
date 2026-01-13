@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 About Me
-**I am a passionate C++ developer specializing in building cross-platform desktop applications, engineering tools and automation software**
+**I am a passionate C++ developer specializing in building cross-platform desktop applications, engineering tools and automation software.**
 
 ---
 
@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 - **Self-driven Learning**
 - **Clear Communication**
 - **Responsibility & Reliability**
-- 
 ---
 
 ## 🌐 Connect with Me
