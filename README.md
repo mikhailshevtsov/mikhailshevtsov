@@ -29,17 +29,16 @@ Here are some ideas to get you started:
 ### 💻 Languages & Standards
 - **C++11/14/17/20/23**: Templates, RAII, smart pointers, move semantics, lambdas, constexpr, concepts, ranges  
 - **C**: Low-level programming, embedded systems, performance-critical code  
-- **Python**: Scripting, automation, scientific libraries (NumPy, SciPy, Matplotlib)
+- **Python**: Scripting, automation, scientific libraries
 
 ### 🧩 Frameworks & Libraries
 - **Qt & QML**: Cross-platform desktop development
 - **STL & Boost**: Containers, algorithms, smart pointers, multithreading, asynchronous input/output  
 - **OpenGL**: Visualization and rendering
-- **ASIO**: Networking and IPC
 
 ### 🏗 Tools & Ecosystem
 - **Version Control:** Git, GitHub 
-- **Build Systems:** CMake, Make, Ninja 
+- **Build Systems:** CMake, Make
 - **Package Management:** CPM, Conan, vcpkg
 - **Testing:** GoogleTest, Catch2
 - **CI/CD:** GitHub Actions, CTest
@@ -50,20 +49,19 @@ Here are some ideas to get you started:
 - **Object-Oriented Programming**
 - **Generic Programming**
 - **Template Metaprogramming**
-- **Low-latency and High-performance optimization** 
 - **Numerical Methods for Scientific and Engineering Applications**
 - **Software Architectural patterns**
 - **Algorithmic Complexity**
 - **Multithreading**
 
 ### 🙌 Soft Skills 
-- **Upper-intermediate English (B2)**
+- **Upper-intermediate English**
 - **Touch Typing**
 - **Analytical Thinking**
 - **Attention to Detail**
 - **Self-driven Learning**
 - **Clear Communication**
-- **Responsibility & Reliability**
+- **Reliability**
 ---
 
 ## 🌐 Connect with Me
