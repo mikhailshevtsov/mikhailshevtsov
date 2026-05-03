@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### 🧩 Frameworks & Libraries
 - **General libraries**: STL, Boost, Qt
-- **GUI**: Qt Widgets | Qt Quick**
+- **GUI**: Qt Widgets, Qt Quick
 
 ### 🏗 Tools & Ecosystem
 - **Version Control:** Git, GitHub 
@@ -66,6 +66,5 @@ Here are some ideas to get you started:
 - [LinkedIn](https://linkedin.com/in/mykhailo-shevtsov/)
 - [Email](mikhail.shevtsoff@gmail.com)
 - [Telegram](https://t.me/mikhailshevtsoff)
-- [Whatsapp](+380931302971)
 
 ---
