@@ -27,23 +27,21 @@ Here are some ideas to get you started:
 ## 🛠 Core Expertise
 
 ### 💻 Languages & Standards
-- **C++11/14/17/20/23**: Templates, RAII, smart pointers, move semantics, lambdas, constexpr, concepts, ranges  
-- **C**: Low-level programming, embedded systems, performance-critical code  
+- **C++20**: Templates, RAII, smart pointers, move semantics, lambdas, constexpr, concepts, ranges  
+- **C**: Low-level programming, performance-critical code  
 - **Python**: Scripting, automation, scientific libraries
 
 ### 🧩 Frameworks & Libraries
-- **Qt & QML**: Cross-platform desktop development
-- **STL & Boost**: Containers, algorithms, smart pointers, multithreading, asynchronous input/output  
-- **OpenGL**: Visualization and rendering
+- **General libraries**: STL, Boost, Qt
+- **GUI**: Qt Widgets | Qt Quick**
 
 ### 🏗 Tools & Ecosystem
 - **Version Control:** Git, GitHub 
-- **Build Systems:** CMake, Make
-- **Package Management:** CPM, Conan, vcpkg
+- **Build Systems:** CMake
 - **Testing:** GoogleTest, Catch2
-- **CI/CD:** GitHub Actions, CTest
+- **CI/CD:** GitHub Actions
 - **Operating Systems**: Ubuntu Linux (primary), Windows
-- **Databases**: SQLite3, PostgreSQL
+- **Databases**: SQLite3
 
 ### 📐 Hard Skills
 - **Object-Oriented Programming**
@@ -68,5 +66,6 @@ Here are some ideas to get you started:
 - [LinkedIn](https://linkedin.com/in/mykhailo-shevtsov/)
 - [Email](mikhail.shevtsoff@gmail.com)
 - [Telegram](https://t.me/mikhailshevtsoff)
+- [Whatsapp](+380931302971)
 
 ---
