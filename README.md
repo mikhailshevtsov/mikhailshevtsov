@@ -15,51 +15,45 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Mikhail Shevtsov
 
-🎯 **C++ Developer | Automation & Engineering Software**
+🎯 **C++ Developer
 
 ---
 
-## 🚀 About Me
-**I am a passionate C++ developer specializing in building cross-platform desktop applications, engineering tools and automation software.**
+## ⚡ About Me
+**I am a passionate C++ developer specializing in building high-performance backend and desktop applications**
 
 ---
 
-## 🛠 Core Expertise
-
-### 💻 Languages & Standards
-- **C++20**: Templates, RAII, smart pointers, move semantics, lambdas, constexpr, concepts, ranges  
+## 💻 Technologies
+- **C++ up to 20**: Main expertise (templates, RAII, smart pointers, move semantics, STL, boost, Qt etc.) 
 - **C**: Low-level programming, performance-critical code  
-- **Python**: Scripting, automation, scientific libraries
+- **Python**: Scripting, automation
+- **Linux**: Strong knowledge
+- **Version Control**: Git, GitHub 
+- **Build Systems**: CMake
+- **Testing**: GoogleTest
 
-### 🧩 Frameworks & Libraries
-- **General libraries**: STL, Boost, Qt
-- **GUI**: Qt Widgets, Qt Quick
-
-### 🏗 Tools & Ecosystem
-- **Version Control:** Git, GitHub 
-- **Build Systems:** CMake
-- **Testing:** GoogleTest, Catch2
-- **CI/CD:** GitHub Actions
-- **Operating Systems**: Ubuntu Linux (primary), Windows
-- **Databases**: SQLite3
-
-### 📐 Hard Skills
+### 💪 Hard Skills
+- **High-Performance Optimization**
 - **Object-Oriented Programming**
-- **Generic Programming**
 - **Template Metaprogramming**
-- **Numerical Methods for Scientific and Engineering Applications**
-- **Software Architectural patterns**
+- **Software Architectural Patterns**
 - **Algorithmic Complexity**
 - **Multithreading**
 
-### 🙌 Soft Skills 
+### ✨ Soft Skills
 - **Upper-intermediate English**
-- **Touch Typing**
 - **Analytical Thinking**
 - **Attention to Detail**
 - **Self-driven Learning**
 - **Clear Communication**
 - **Reliability**
+- **Touch Typing**
+
+---
+
+## 🚀 My projects
+
 ---
 
 ## 🌐 Connect with Me
