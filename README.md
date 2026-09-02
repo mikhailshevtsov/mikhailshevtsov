@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Mikhail Shevtsov
 
-🎯 **C++ Developer
+🎯 **C++ Developer**
 
 ---
 
