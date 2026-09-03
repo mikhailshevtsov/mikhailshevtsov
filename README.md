@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 💻 Technologies
+### 💻 Technologies
 - **C++ up to 20**: Main expertise (templates, RAII, smart pointers, move semantics, STL, boost, Qt etc.) 
 - **C**: Low-level programming, performance-critical code  
 - **Python**: Scripting, automation
